@@ -1,0 +1,58 @@
+[
+  {
+    "id": "004",
+    "name": "Halisohor turf",
+    "image": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period1/2015/09/12/Photos/turf-kHJF--621x414@LiveMint.jpg",
+    "location": "Halisohor, a block",
+    "map-location": "google map",
+    "ratting": 4,
+    "host-capacity": 100,
+    "available-at": [
+      "saturday",
+      "tuesday",
+      "thursday"
+    ],
+    "sports": [
+      "cricket",
+      "badminton"
+    ],
+    "extra-facility": "blah blah blah"
+  },
+  {
+    "id": "007",
+    "name": "Khulshi turf",
+    "image": "https://images.newindianexpress.com/uploads/user/ckeditor_images/article/2019/10/12/artificiala.jpg?w=376&dpr=2.6",
+    "location": "South khulshi",
+    "map-location": "google map",
+    "ratting": 4,
+    "host-capacity": 80,
+    "available-at": [
+      "monday",
+      "wednesday"
+    ],
+    "sports": [
+      "cricket",
+      "badminton"
+    ],
+    "extra-facility": "blah blah blah"
+  },
+  {
+    "id": "008",
+    "name": "Bohoddarhat turf",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/5/YK/WO/MI/96105115/badminton-court-turf-1000x1000.jpeg",
+    "location": "Bohoddarhat",
+    "map-location": "google map",
+    "ratting": 3,
+    "host-capacity": 50,
+    "available-at": [
+      "saturday",
+      "tuesday",
+      "thusday"
+    ],
+    "sports": [
+      "cricket",
+      "badminton"
+    ],
+    "extra-facility": "blah blah blah"
+  }
+]
